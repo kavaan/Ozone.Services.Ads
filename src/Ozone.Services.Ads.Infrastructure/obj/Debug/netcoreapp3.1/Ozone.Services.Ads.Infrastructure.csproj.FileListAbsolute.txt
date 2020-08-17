@@ -1,0 +1,8 @@
+F:\Projects\Ozone\Ozone.Services.Ads\src\Ozone.Services.Ads.Infrastructure\bin\Debug\netcoreapp3.1\Ozone.Services.Ads.Infrastructure.deps.json
+F:\Projects\Ozone\Ozone.Services.Ads\src\Ozone.Services.Ads.Infrastructure\bin\Debug\netcoreapp3.1\Ozone.Services.Ads.Infrastructure.dll
+F:\Projects\Ozone\Ozone.Services.Ads\src\Ozone.Services.Ads.Infrastructure\bin\Debug\netcoreapp3.1\Ozone.Services.Ads.Infrastructure.pdb
+F:\Projects\Ozone\Ozone.Services.Ads\src\Ozone.Services.Ads.Infrastructure\obj\Debug\netcoreapp3.1\Ozone.Services.Ads.Infrastructure.csprojAssemblyReference.cache
+F:\Projects\Ozone\Ozone.Services.Ads\src\Ozone.Services.Ads.Infrastructure\obj\Debug\netcoreapp3.1\Ozone.Services.Ads.Infrastructure.AssemblyInfoInputs.cache
+F:\Projects\Ozone\Ozone.Services.Ads\src\Ozone.Services.Ads.Infrastructure\obj\Debug\netcoreapp3.1\Ozone.Services.Ads.Infrastructure.AssemblyInfo.cs
+F:\Projects\Ozone\Ozone.Services.Ads\src\Ozone.Services.Ads.Infrastructure\obj\Debug\netcoreapp3.1\Ozone.Services.Ads.Infrastructure.dll
+F:\Projects\Ozone\Ozone.Services.Ads\src\Ozone.Services.Ads.Infrastructure\obj\Debug\netcoreapp3.1\Ozone.Services.Ads.Infrastructure.pdb

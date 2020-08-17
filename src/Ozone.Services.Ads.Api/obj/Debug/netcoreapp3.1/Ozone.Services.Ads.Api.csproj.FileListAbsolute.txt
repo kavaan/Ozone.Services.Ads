@@ -1,0 +1,17 @@
+F:\Projects\Ozone\Ozone.Services.Ads\src\Ozone.Services.Ads.Api\bin\Debug\netcoreapp3.1\appsettings.Development.json
+F:\Projects\Ozone\Ozone.Services.Ads\src\Ozone.Services.Ads.Api\bin\Debug\netcoreapp3.1\appsettings.json
+F:\Projects\Ozone\Ozone.Services.Ads\src\Ozone.Services.Ads.Api\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+F:\Projects\Ozone\Ozone.Services.Ads\src\Ozone.Services.Ads.Api\bin\Debug\netcoreapp3.1\Ozone.Services.Ads.Api.exe
+F:\Projects\Ozone\Ozone.Services.Ads\src\Ozone.Services.Ads.Api\bin\Debug\netcoreapp3.1\Ozone.Services.Ads.Api.deps.json
+F:\Projects\Ozone\Ozone.Services.Ads\src\Ozone.Services.Ads.Api\bin\Debug\netcoreapp3.1\Ozone.Services.Ads.Api.runtimeconfig.json
+F:\Projects\Ozone\Ozone.Services.Ads\src\Ozone.Services.Ads.Api\bin\Debug\netcoreapp3.1\Ozone.Services.Ads.Api.runtimeconfig.dev.json
+F:\Projects\Ozone\Ozone.Services.Ads\src\Ozone.Services.Ads.Api\bin\Debug\netcoreapp3.1\Ozone.Services.Ads.Api.dll
+F:\Projects\Ozone\Ozone.Services.Ads\src\Ozone.Services.Ads.Api\bin\Debug\netcoreapp3.1\Ozone.Services.Ads.Api.pdb
+F:\Projects\Ozone\Ozone.Services.Ads\src\Ozone.Services.Ads.Api\obj\Debug\netcoreapp3.1\staticwebassets\Ozone.Services.Ads.Api.StaticWebAssets.Manifest.cache
+F:\Projects\Ozone\Ozone.Services.Ads\src\Ozone.Services.Ads.Api\obj\Debug\netcoreapp3.1\staticwebassets\Ozone.Services.Ads.Api.StaticWebAssets.xml
+F:\Projects\Ozone\Ozone.Services.Ads\src\Ozone.Services.Ads.Api\obj\Debug\netcoreapp3.1\Ozone.Services.Ads.Api.MvcApplicationPartsAssemblyInfo.cache
+F:\Projects\Ozone\Ozone.Services.Ads\src\Ozone.Services.Ads.Api\obj\Debug\netcoreapp3.1\Ozone.Services.Ads.Api.AssemblyInfoInputs.cache
+F:\Projects\Ozone\Ozone.Services.Ads\src\Ozone.Services.Ads.Api\obj\Debug\netcoreapp3.1\Ozone.Services.Ads.Api.AssemblyInfo.cs
+F:\Projects\Ozone\Ozone.Services.Ads\src\Ozone.Services.Ads.Api\obj\Debug\netcoreapp3.1\Ozone.Services.Ads.Api.RazorTargetAssemblyInfo.cache
+F:\Projects\Ozone\Ozone.Services.Ads\src\Ozone.Services.Ads.Api\obj\Debug\netcoreapp3.1\Ozone.Services.Ads.Api.dll
+F:\Projects\Ozone\Ozone.Services.Ads\src\Ozone.Services.Ads.Api\obj\Debug\netcoreapp3.1\Ozone.Services.Ads.Api.pdb

@@ -1,0 +1,7 @@
+F:\Projects\Ozone\Ozone.Services.Ads\src\Ozone.Services.Ads.Core\bin\Debug\netcoreapp3.1\Ozone.Services.Ads.Core.deps.json
+F:\Projects\Ozone\Ozone.Services.Ads\src\Ozone.Services.Ads.Core\bin\Debug\netcoreapp3.1\Ozone.Services.Ads.Core.dll
+F:\Projects\Ozone\Ozone.Services.Ads\src\Ozone.Services.Ads.Core\bin\Debug\netcoreapp3.1\Ozone.Services.Ads.Core.pdb
+F:\Projects\Ozone\Ozone.Services.Ads\src\Ozone.Services.Ads.Core\obj\Debug\netcoreapp3.1\Ozone.Services.Ads.Core.AssemblyInfoInputs.cache
+F:\Projects\Ozone\Ozone.Services.Ads\src\Ozone.Services.Ads.Core\obj\Debug\netcoreapp3.1\Ozone.Services.Ads.Core.AssemblyInfo.cs
+F:\Projects\Ozone\Ozone.Services.Ads\src\Ozone.Services.Ads.Core\obj\Debug\netcoreapp3.1\Ozone.Services.Ads.Core.dll
+F:\Projects\Ozone\Ozone.Services.Ads\src\Ozone.Services.Ads.Core\obj\Debug\netcoreapp3.1\Ozone.Services.Ads.Core.pdb
